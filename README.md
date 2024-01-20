@@ -1,4 +1,4 @@
-# SkillHub
+# Skillent
 A web platform through which one can offer their skills and participate in projects requiring their expertise. It allows users to create projects, search for and contact competent individuals who may be interested in participating in the project.
 
 The target audience will consist of young people and students. The social objective is to enable young individuals to develop skills and engage in the realization of creative projects, while also encouraging social interaction and the sharing of ideas.
